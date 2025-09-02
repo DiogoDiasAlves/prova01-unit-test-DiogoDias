@@ -6,7 +6,6 @@ yarn-error.log*
 lerna-debug.log*
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 node_modules/
-coverage/lcov-report/
 jspm_packages/
 .npm
 .env
